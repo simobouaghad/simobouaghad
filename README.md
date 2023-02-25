@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simobouaghad Junior Software Engineer - Backend (PHP)
-- 👀 I’m interested in bulding web apps with PHP / Laravel 9 / Vue.js / Docker / MySQL / Merise
+- 👀 I’m interested in bulding web apps with PHP / Laravel / Docker / MySQL / Merise
 - 🌱 I’m currently learning more about Backend Development
 - 💞️ I’m looking to collaborate with companies as a freelancer
 - 📫 How to reach me : Email : bouaghadmohamed@gmail.com / Phone : 0707429860
